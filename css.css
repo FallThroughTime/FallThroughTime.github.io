@@ -1,0 +1,20 @@
+* {
+  font-family: AutumnFont;
+}
+
+body {
+  background-image: url("Background.JPG");
+  background-size: cover;
+  background-attachment: fixed;
+  overflow-y: scroll;
+}
+
+.title1 {
+  text-align: center;
+  background-color: sandybrown;
+}
+
+/*@font-face {
+  font-family: AutumnFont;
+  src: url(apple_butter\Apple Butter.ttf);
+}*/
